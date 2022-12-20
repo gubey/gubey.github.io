@@ -6,12 +6,18 @@ subtitle: Digital Illustrator On Da Web
 
 Hi, I'm Gubey! 
 
- [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
- [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
- [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
+·[Linktree](https://linktr.ee/gubeyvs)
 
-What else do you need?
+·[Steam](https://steamcommunity.com/id/gubey-VS/)
 
-### My story
+·[Twitter](https://twitter.com/gubeyVS)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+·[Tumblr](https://gubey.tumblr.com/)
+
+·[Toyhouse](https://toyhou.se/gubey-VS)
+
+·[Kofi](https://ko-fi.com/gubey)
+
+·[Cohost](https://cohost.org/gubeyVS)
+
+·[Pillowfort](https://www.pillowfort.social/gubeyVS)
