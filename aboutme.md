@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 
+subtitle: Digital Illustrator On Da Web
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Gubey! 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+ [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
+ [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
+ [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
 
 What else do you need?
 
