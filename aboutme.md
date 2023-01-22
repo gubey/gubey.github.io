@@ -4,12 +4,13 @@ title:
 subtitle: Digital Illustrator On Da Web
 ---
 
-Digital Artist ＆ Localization
-日本語がほとんどわからない。
+Hi, I'm Gubey! I'm a digital artist!
+
 I like doing art and currently studying in the STEM field․ 
 Talk to me about computer graphics‚ emulation‚ piracy‚ and all that jazzǃ
 
 i5-10600k｜ 64GiB ｜ RTX 2060 Super ｜ Quest2 （Modified）
+
 Pronouns˸（She⁄Her） 
 
 ·[Linktree](https://linktr.ee/gubeyvs)
