@@ -5,7 +5,7 @@ subtitle: Enjoy your stay!
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [motd, gmod]
 ---
 
 ## What is preloaded into my server?
@@ -16,7 +16,8 @@ This server is running CEF Codec, Draconic Base, Glue, ULX, Ulysses Library, Wir
 **Available Gamemodes:** Sandbox, Trouble in Terrorist Town, Jazztronauts and Prop Hunt.
 
 **TTT/PH-ONLY:** To switch your playermodel, type in 'playermodel_selector' into console.
-**Sandbox-ONLY:** Install GModCEFCodecFix to view PlayX in the CEF Codec, more stable."
+
+**Sandbox-ONLY:** Install GModCEFCodecFix to view PlayX in the CEF Codec, more stable.
 
 
 ## Rules
@@ -24,3 +25,12 @@ This server is running CEF Codec, Draconic Base, Glue, ULX, Ulysses Library, Wir
 2. Shoot Impy on sight.
 3. Have Fun.
 4. Do NOT look at sucklet.
+
+## Installed Addons:
+**Gubey's Little Big Sandbox:** https://steamcommunity.com/sharedfiles/filedetails/?id=2942333792
+
+**Trouble in Gubeytown!:** https://steamcommunity.com/sharedfiles/filedetails/?id=2814639352
+
+**Gubeynauts:** https://steamcommunity.com/sharedfiles/filedetails/?id=2938014667
+
+**Gubey's Kinda Funky Prop Hunting Day:** https://steamcommunity.com/sharedfiles/filedetails/?id=2939704865
