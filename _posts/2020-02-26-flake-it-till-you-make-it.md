@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-! ## What is preloaded into my server?
+## What is preloaded into my server?
 
 This server is running CEF Codec, Draconic Base, Glue, ULX, Ulysses Library, WireMod and wOS. !
 
@@ -19,7 +19,7 @@ This server is running CEF Codec, Draconic Base, Glue, ULX, Ulysses Library, Wir
 **Sandbox-ONLY:** Install GModCEFCodecFix to view PlayX in the CEF Codec, more stable."
 
 
-## Rules"
+## Rules
 1. Don't be mean.
 2. Shoot Impy on sight.
 3. Have Fun.
