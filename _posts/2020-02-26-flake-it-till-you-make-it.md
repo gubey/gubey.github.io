@@ -1,7 +1,7 @@
 ---
 layout: post
 title: There's trouble in Gubeytown. 
-subtitle: Enjoy your stay!
+subtitle: Enjoy your stay! (Actually made in Oct. 2023!)
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/blank.jpg
 tags: [motd, gmod]
