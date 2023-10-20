@@ -2,7 +2,6 @@
 layout: post
 title: There's trouble in Gubeytown. 
 subtitle: Enjoy your stay!
-cover-img: /assets/img/blank.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/blank.jpg
 tags: [motd, gmod]
