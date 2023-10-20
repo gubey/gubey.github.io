@@ -13,7 +13,9 @@ tags: [motd, gmod]
 This server is running CEF Codec, Draconic Base, Glue, ULib, ULX, WireMod, wOS and XGUI!
 
 
-**Available Gamemodes:** Sandbox, Trouble in Terrorist Town, Jazztronauts and Prop Hunt.
+## Gamemodes 
+
+Sandbox, Trouble in Terrorist Town, Jazztronauts and Prop Hunt.
 
 
 ## Rules
